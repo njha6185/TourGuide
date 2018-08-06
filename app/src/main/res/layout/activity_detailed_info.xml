@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailedInfoActivity">
+
+    <ImageView
+        android:id="@+id/detailInfoImageView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_0dp"
+        android:layout_margin="@dimen/_15dp"
+        android:scaleType="centerCrop"
+        android:padding="@dimen/_5dp"
+        android:layout_weight="1"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_0dp"
+        android:layout_weight="1"
+        android:fillViewport="true"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/detailNameTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_20sp"
+                android:gravity="center"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/nearMetroTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/textViewSpacingStyle" />
+
+            <TextView
+                android:id="@+id/disMetroTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/textViewSpacingStyle" />
+
+            <TextView
+                android:id="@+id/phoneTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/textViewSpacingStyle" />
+
+            <TextView
+                android:id="@+id/addressTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/textViewSpacingStyle" />
+
+            <TextView
+                android:id="@+id/discriptionTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/textViewSpacingStyle" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

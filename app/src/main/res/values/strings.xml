@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_thumbnail_image">Place ThumbNail Image</string>
+    <string name="place_name">PLACE NAME</string>
+    <string name="phone_no">Not Available</string>
+    <string name="nearest_metro">Nearest Metro : </string>
+    <string name="metro_dist_text">Distance From Nearest Metro : </string>
+
+    <string-array name="namesOfMonuments">
+        <item>GURUDWARA BANGLA SAHIB</item>
+        <item>HUMAYUN\'S TOMB</item>
+        <item>INDIA GATE</item>
+        <item>JAMA MASJID</item>
+        <item>JANTAR MANTAR</item>
+        <item>LODI GARDENS</item>
+        <item>LOTUS TEMPLE</item>
+        <item>QUTAB MINAR</item>
+        <item>RED FORT</item>
+    </string-array>
+    <string-array name="nearestMetroOfMonuments">
+        <item>Patel Chowk</item>
+        <item>Khan Market, Jangpura</item>
+        <item>Central Secretariat</item>
+        <item>Chandhni Chowk</item>
+        <item>Rajiv Chowk</item>
+        <item>JLN Metro Station</item>
+        <item>Nehru Place, Kalkaji</item>
+        <item>Qutab Minar</item>
+        <item>Chandhni Chowk</item>
+    </string-array>
+    <string-array name="distanceFromNearestMetroOfMonuments">
+        <item>300m</item>
+        <item>1km</item>
+        <item>900m</item>
+        <item>500m</item>
+        <item>300m</item>
+        <item>500m</item>
+        <item>300m</item>
+        <item>1.9km</item>
+        <item>300m</item>
+    </string-array>
+    <string-array name="addressOfMonuments">
+        <item>Ashok Road, Connaught Place, New Delhi 110001</item>
+        <item>Mathura Road, Nizamuddin, New Delhi, 110013</item>
+        <item>Rajpath, New Delhi 110001</item>
+        <item>Opp. Netaji Subhas marg, Post Kasturba Hospital Marg, Opp. Menna Bazar, Near Red Fort, Chandni Chowak</item>
+        <item>Sansad Marg, Connaught Place , New Delhi 110001</item>
+        <item>Main Lodi Road, Besides India International Center, New Delhi 110003</item>
+        <item>Lotus temple Road, Post Sambhu Dayal Bagh, Bahapur, Kalkaji, New Delhi 110019</item>
+        <item>Mehrauli, New Delhi 110030</item>
+        <item>Netaji Shubhas Road, Chandani Chowk, New Delhi 110006</item>
+    </string-array>
+    <string-array name="discriptionOfMonuments">
+        <item>It is One of the Most scarosanct Sikh places of worship in Delhi, associated with 8thSikh Guru, Guru Harikrishan
+        . The Pond inside its complex, known as \"Sarovar\" is considered holy by the Sikhs.</item>
+        <item>Humayun's tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by
+            Humayun's first wife and chief consort, Empress Bega Begum, in 1569-70, and designed by Mirak Mirza</item>
+        <item>The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the "ceremonial axis"
+            of New Delhi, India, formerly called Kingsway</item>
+        <item>The Masjid-i Jahān-Numā (Persian/Urdu: مسجدِ جہاں نما, Devnagri: मस्जिद जहान नुमा, the 'World-reflecting Mosque'),
+            commonly known as the Jama Masjid devnagrii: जामा मस्जिद, Urdu: جامع مسجد) of Delhi, is one of the largest mosques
+            in India. It was built by Mughal Emperor Shah Jahan between 1644 and 1656 at a cost of 1 million rupees, and was
+            inaugurated by an Imam from Bukhara, present-day Uzbekistan.</item>
+        <item>Jantar Mantar is located in the modern city of New Delhi. It consists of 13 architectural astronomy instruments.</item>
+        <item>Lodi Gardens or Lodhi Gardens is a city park situated in New Delhi, India. Spread over 90 acres, it contains,
+            Mohammed Shah's Tomb, Tomb of Sikandar Lodi, Shisha Gumbad and Bara Gumbad, architectural</item>
+        <item>The Lotus Temple, located in Delhi, India, is a Bahá'í House of Worship that was dedicated in December 1986,
+            costing $10 million. Notable for its flowerlike shape, it has become a prominent attraction in the city.</item>
+        <item>The Qutub Minar, also spelled as Qutab Minar, or Qutb Minar, is the tallest minaret in the world made
+            up of bricks. The minaret forms a part of the Qutab complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi,
+            India.</item>
+        <item>Red Fort is a historic fort in the city of Delhi in India. It was the main residence of the emperors of the Mughal
+            dynasty for nearly 200 years, until 1856. It is located in the center of Delhi and houses a number of museums. </item>
+    </string-array>
+
+    <string-array name="nameOfMalls">
+        <item>AMBIENCE MALL GURUGAON</item>
+        <item>DLF MALL NOIDA</item>
+        <item>GIP MALL NOIDA</item>
+        <item>LOGIX MALL NOIDA</item>
+        <item>OPULENT MALL GHAZIABAD</item>
+        <item>WAVE MALL NOIDA</item>
+    </string-array>
+    <string-array name="nearestMetroToMalls">
+        <item>SIKANDARPUR</item>
+        <item>SECTOR 18 NOIDA</item>
+        <item>SECTOR 18 NOIDA</item>
+        <item>WAVE CITY CENTER NOIDA</item>
+        <item>NO METRO</item>
+        <item>SECTOR 18 NOIDA</item>
+    </string-array>
+    <string-array name="distFromMetroMalls">
+        <item>900m</item>
+        <item>700m</item>
+        <item>450m</item>
+        <item>100m</item>
+        <item>N/A</item>
+        <item>700m</item>
+    </string-array>
+    <string-array name="phoneNoOfMalls">
+        <item>01244737101</item>
+        <item>01206209972</item>
+        <item>01204650300</item>
+        <item>01202471552</item>
+        <item>08287120120</item>
+        <item>01204364666</item>
+    </string-array>
+    <string-array name="addressOfMalls">
+        <item>NH 8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002</item>
+        <item>Sector 18, Noida, Uttar Pradesh 201301</item>
+        <item>Plot No A-2, Sector 38-A, Noida, Uttar Pradesh 201301</item>
+        <item> Plot No. BW-58, Golf Marg, Sector 32, Near Noida City Centre Metro Station, Noida, Uttar Pradesh 201301</item>
+        <item>C-115, Grand Trunk Road, East Model Town, Nehru Nagar III, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001</item>
+        <item>Pocket J, Sector 18, Noida, Uttar Pradesh 201301</item>
+    </string-array>
+    <string-array name="discriptionOfMalls">
+        <item>Ambience Mall, Gurgaon is a shopping mall in Gurgaon, Haryana, India. It contains an area of 1,997,378 square feet.
+            Most floors have a shopping area of 860 meters. Ambience Mall has more than 230 stores and food outlets.</item>
+        <item>DLF Mall of India, is a shopping mall in India located in Noida NCR, Uttar Pradesh. It is spread
+            across the retail space of 2 million. The mall is divided in 5 zones spread over 7 floors.</item>
+        <item>The Great India Place is a shopping mall in Noida, Uttar Pradesh, India. It is popularly known as GIP Mall.
+            It is one of the largest malls in the country. The mall features a wide selection of national and international
+            retail outlets</item>
+        <item>Logix City Centre is one of the most prominently located Commercial Property in Noida Extension, NCR.
+            The mall ensures sterling Shopping and entertainment</item>
+        <item>Not Available</item>
+        <item>With cutting edge infrastructure, technology and management, Wave Malls are the one-stop destination
+            for shopping, entertainment and food in Noida, India.</item>
+    </string-array>
+
+    <string-array name="nameOfHotels">
+        <item>Goldfinch Hotel Faridabad</item>
+        <item>Hotel Aman Continental</item>
+        <item>Piccadily Hotel</item>
+        <item>Radission Plaza Hotel</item>
+        <item>The Taj Mahal Hotel New Delhi</item>
+    </string-array>
+    <string-array name="neatrestMetroToHotels">
+        <item>N/A</item>
+        <item>New Delhi Metro</item>
+        <item>New Delhi Metro</item>
+        <item>Rajiv Chowk Metro</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="distNearMetroOfHotels">
+        <item>N/A</item>
+        <item>1.5km</item>
+        <item>250m</item>
+        <item>700m</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="phoneOfHotels">
+        <item>01294249999</item>
+        <item>01294249999</item>
+        <item>01141234123</item>
+        <item>01126779191</item>
+        <item>01166566162</item>
+    </string-array>
+    <string-array name="addressOfHotels">
+        <item>Goldfinch Hotel, Sector 39, Surajkund, Faridabad, Surajkund, Faridabad, Haryana, 121010</item>
+        <item>1048, Main Bazar, Paharganj. 5 Minutes Walk To New Delhi Railway Station. Delhi India 110055</item>
+        <item> Centre Complex Block A1, Janakpuri District Center, Janakpuri, New Delhi, Delhi 110058</item>
+        <item>Near Mahipalpur Extension Nh 8, New Delhi, Delhi 110037</item>
+        <item>No.1, Man Singh Road, New Delhi, Delhi 110001</item>
+    </string-array>
+    <string-array name="discriptionOfHotels">
+        <item>Goldfinch hotel in Surajkund is situated in the business district, close to Faridabad toll plaza and metro station,
+            which puts NCR within easy reach.</item>
+        <item>Enjoy your stay in luxury Hotel in New Delhi. Book  Hotel room
+            online and get best offers along with wide range of luxury star facilities.</item>
+        <item>Enjoy your stay in luxury Hotel in, New Delhi. Book Piccadily Hotel room online and get best offers along
+            with wide range of luxury star facilities.</item>
+        <item>Reserve a room at the five-star Radisson Blu near the airport in New Delhi to enjoy on-site dining,
+            a free-form pool and a spa. Book your hotel room today!</item>
+        <item>Experience the buzz of the capital in an effortlessly elegant manner at some of the best luxury hotels in New Delhi</item>
+    </string-array>
+
+    <string-array name="nameOfNightLife">
+        <item>Blu O</item>
+        <item>Hauz Khas Village</item>
+        <item>House A</item>
+        <item>India Gate</item>
+        <item>Kitty Su</item>
+        <item>Mocha Art House</item>
+        <item>Murthal</item>
+    </string-array>
+    <string name="nearestMetroNight">No Metro Service At Night</string>
+    <string name="disnearestMetroNight">No Metro</string>
+    <string-array name="phoneOfNightPlace">
+        <item>01123456789</item>
+        <item>N/A</item>
+        <item>01166771308</item>
+        <item>N/A</item>
+        <item>01144447666</item>
+        <item>09069138193</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="addressOfNightPlace">
+        <item>2, Nelson Mandela Marg, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070</item>
+        <item>Hauz Khas Village, delhi</item>
+        <item>Hyatt Regency Delhi, Bhikaji Cama Place, New Delhi, Delhi 110066</item>
+        <item>India gate, janpath, New Delhi</item>
+        <item>The Lalit Hotel, Barakhamba Road, Opp Modern School, Connaught Place, New Delhi, Delhi 110001</item>
+        <item>167, DLF Promenade, Nelson Mandela Road, Vasant Kunj II, New Delhi, Delhi 110070</item>
+        <item>13 km north of Sonipat,50 kilometers from the national capital New Delhi</item>
+    </string-array>
+    <string-array name="discpOfNightPlace">
+        <item>This place is famous among the children as this place is a game zone of the Ambience Mall in Gurgaon, Delhi.
+            This is a perfect place for the people who love bowling. This place is also regarded as the best bowling place of Delhi.</item>
+        <item>With a beautiful scenic view of a lake and a unique presentation this place has been a very happening destination, since it started.</item>
+        <item>This place is very famous for its interior décor. This place is a famous destination for the nightlife in Delhi.
+            The heavenly lighting of this place which is done with the help of colorful lights makes this place a
+            nice choice for nightlife in Delhi for singles and also for couples. This </item>
+        <item>Located on the sides of Rajpath, the road near India Gate is very romantic and is a perfect choice for the couples who are in a
+            mood of a night walk. One can be here with his partner or friend and can taste the local flavors of our country</item>
+        <item>With an energetic music, a magnetic dance floor and a great collection of cocktails being served this place becomes one’s
+            first choice to experience the nightlife in Delhi.</item>
+        <item>This place is for the cricket lovers in Delhi. Here one can have late night dinner with friends and can enjoy a cricket
+            match in big LED screen. This place is famous for the sizzlers which are served during the match and for other food items too.</item>
+        <item>At a distance of around 60 kilometers from the city this is quite a different place is located. Travel time which is around 2 to 2.5 hours,
+            is a worth ride as one gets to taste the parathas drowned in butter with different stuffing according to the person’s choice.</item>
+    </string-array>
+
+    <string name="nearestMetroText">Nearest Metro Station :</string>
+    <string name="nearestMetroDistance">Distance From Nearest Metro Station :</string>
+    <string name="phoneNoText">Phone No. :</string>
+    <string name="address">Address :</string>
+    <string name="discrip">Discription :</string>
+
+    <string-array name="tabLayoutTitles">
+        <item>MONUMENTS</item>
+        <item>MALLS</item>
+        <item>HOTELS</item>
+        <item>NIGHT PLACES</item>
+    </string-array>
+
+</resources>
